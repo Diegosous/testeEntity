@@ -1,0 +1,13 @@
+C:\temp\EntityTest\AcessoADados\bin\Debug\AcessoADados.dll
+C:\temp\EntityTest\AcessoADados\bin\Debug\AcessoADados.pdb
+C:\temp\EntityTest\AcessoADados\obj\Debug\AcessoADados.csproj.CoreCompileInputs.cache
+C:\temp\EntityTest\AcessoADados\obj\Debug\AcessoADados.dll
+C:\temp\EntityTest\AcessoADados\obj\Debug\AcessoADados.pdb
+C:\temp\EntityTest\AcessoADados\bin\Debug\Entidades.dll
+C:\temp\EntityTest\AcessoADados\bin\Debug\Entidades.pdb
+C:\temp\EntityTest\AcessoADados\obj\Debug\AcessoADados.csprojResolveAssemblyReference.cache
+C:\temp\EntityTest\AcessoADados\bin\Debug\AcessoADados.dll.config
+C:\temp\EntityTest\AcessoADados\bin\Debug\EntityFramework.dll
+C:\temp\EntityTest\AcessoADados\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\EntityTest\AcessoADados\bin\Debug\EntityFramework.xml
+C:\temp\EntityTest\AcessoADados\bin\Debug\EntityFramework.SqlServer.xml

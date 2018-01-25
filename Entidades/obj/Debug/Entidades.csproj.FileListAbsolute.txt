@@ -1,0 +1,6 @@
+C:\temp\EntityTest\Entidades\bin\Debug\Entidades.dll
+C:\temp\EntityTest\Entidades\bin\Debug\Entidades.pdb
+C:\temp\EntityTest\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\temp\EntityTest\Entidades\obj\Debug\Entidades.dll
+C:\temp\EntityTest\Entidades\obj\Debug\Entidades.pdb
+C:\temp\EntityTest\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
